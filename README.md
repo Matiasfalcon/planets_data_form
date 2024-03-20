@@ -1,2 +1,2 @@
-# plantes_data-for_
+# planets_data_form
 A basic form project from MDN
